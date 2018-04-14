@@ -1,8 +1,5 @@
 #include "rctank.h"
-
 #define PWM_RANGE 255
-
-
 
 DcMotor::DcMotor(int pinA, int pinB)
 {
